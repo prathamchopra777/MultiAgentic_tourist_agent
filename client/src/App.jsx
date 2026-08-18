@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import { Utensils } from 'lucide-react';
 
 function App() {
+  // high
+  //high2 
   return (
     <Router>
       <div className="min-h-screen flex flex-col">
